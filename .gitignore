@@ -1,0 +1,12 @@
+.DS_Store
+*.js.map
+node_modules/
+runtime/*
+logs/
+# www/uploads
+test/
+# www/static
+# view/blog
+.vscode
+app/
+.idea/
