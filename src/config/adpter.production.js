@@ -3,7 +3,7 @@ const path = require("path");
 exports.model = {
     mysql: {
         database: "blog",
-        host: "127.0.0.1",
+        host: "172.16.125.21",
         port: "",
         user: "root",
         password: "mx102005"
