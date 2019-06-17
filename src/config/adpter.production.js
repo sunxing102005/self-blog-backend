@@ -4,7 +4,7 @@ exports.model = {
     mysql: {
         database: "blog",
         host: "172.16.125.21",
-        port: "",
+        port: 3306,
         user: "root",
         password: "mx102005"
     }
